@@ -1,0 +1,28 @@
+{
+  "name": "my-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
+    "@ston-fi/sdk": "^1.0.2",
+    "@ton/core": "^0.57.0",
+    "@ton/ton": "^13.11.1",
+    "@tonconnect/sdk": "^3.0.5",
+    "axios": "^1.7.4",
+    "node-telegram-bot-api": "^0.66.0",
+    "open": "^10.1.0",
+    "ton": "^13.9.0",
+    "tonweb": "^0.0.66"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "typescript": "^5.5.4"
+  }
+}
